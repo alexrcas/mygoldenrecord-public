@@ -1,5 +1,7 @@
 # MyGoldenRecord
 
+El código de este proyecto es privado. Este repositorio público contiene únicamente documentación.
+
 ### Descripción
 
 MyGoldenRecord es una aplicación web para que los usuarios elaboren su lista de canciones favoritas y puedan compartirlas públicamente o exploren las de otros usuarios.
