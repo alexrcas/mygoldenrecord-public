@@ -11,4 +11,4 @@ MyGoldenRecord es una aplicación web para que los usuarios elaboren su lista de
 
 El siguiente diagrama describe brevemente la arquitectura de la aplicación:
 
-![](diagram.svg)
+![](diagram.png)
